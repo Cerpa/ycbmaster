@@ -32,10 +32,9 @@ user_id="1000"
 logfile="/home/pi/log.txt"
 ycb_works="/home/pi/.works"
 # IODINE Config
-pass_iodine="qwe123"
-domain_iodine="t1.ycbfree.com"
+pass_iodine="YOURPASSWORDDOMAIN"
+domain_iodine="YOURDOMAIN"
 # FQDN
-#dns_server="192.168.1.13"
 fqdn_check="www.google.cl"
 # TCPDUMP
 timeout_tcpdump="120"
